@@ -41,3 +41,6 @@ Selecione a plataforma de compilação como Win32 (Debug ou Release).
 Pressione Ctrl + F9 para compilar ou F9 para compilar e executar o projeto diretamente.
 
 O executável final será gerado no diretório de saída correspondente (Win32/Release ou na pasta raiz conforme configurado).
+
+👤 Autor
+Desenvolvido por Matheus Pedroza.
