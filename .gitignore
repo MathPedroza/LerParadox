@@ -1,0 +1,23 @@
+# Arquivos de Build e Binários
+*.dcu
+*.exe
+*.bpl
+*.dcp
+*.dres
+*.rsm
+*.map
+Win32/
+Win64/
+
+# Histórico e caches da IDE Embarcadero
+*.~*
+*.local
+*.identcache
+*.stat
+__history/
+__recovery/
+
+# Saídas de depuração e temporários
+*.o
+*.obj
+*.ddp
